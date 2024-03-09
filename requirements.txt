@@ -1,11 +1,11 @@
-pyrogram
+pyrogram==2.0.83
 tgcrypto
 requests
-pyromod
-yt-dlp
-ffmpeg
+pyromod==1.4
+yt-dlp==2023.11.16
 aiohttp
 aiofiles
+ffmpeg
+ffprobe
 asyncio
-pycurl
 humanize
